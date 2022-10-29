@@ -1,0 +1,14 @@
+.employees {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.employee {
+    background-color: aqua;
+    border: 5px hotpink solid;
+    color: black;
+    padding: 0.5px;
+    margin: 0.5px;
+}
